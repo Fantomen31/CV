@@ -60,11 +60,11 @@ export default function Component() {
           <section>
             <h2 className="text-2xl font-semibold mb-4">About Me</h2>
             <p className="text-gray-300">
-            I'm a newly educated, versatile and ambitious Full Stack Developer with a unique background that combines the creativity of professional acting with the discipline of competitive sports. My journey in the cutthroat acting industry, where I thrive among the 2% who make a living from it, to the tech world demonstrates my adaptability and determination.
+            I&apos;m a newly educated, versatile and ambitious Full Stack Developer with a unique background that combines the creativity of professional acting with the discipline of competitive sports. My journey in the cutthroat acting industry, where I thrive among the 2% who make a living from it, to the tech world demonstrates my adaptability and determination.
             My achievements include winning the Swedish Championship in rowing and placing 118th out of 62,000 participants in the Gothenburg Half Marathon, among others, showcasing my dedication and ability to excel in challenging environments. These experiences have honed my patience, curiosity, courage, and unwavering resolve - qualities that I now bring to the world of software development.
-            Technically, I specialize in DRF, React.js, and Node.js, with a growing expertise in TypeScript, React Native, and Tailwind CSS. I hold a Full Stack Development diploma from Code Institute, and I'm adept at leveraging cutting-edge AI tools to enhance productivity and innovation.
-            My leadership skills, cultivated through sports and my self-driven acting career in Los Angeles, translate seamlessly into the tech world. I'm not afraid to aim high, make mistakes, learn from them and eager to contribute to projects that push the boundaries of what's possible in software development and my growth.
-            I'm seeking a role that will challenge me to learn and grow as a coder, where I can apply my unique blend of creative problem-solving, technical skills, and relentless drive to create impactful solutions - or simply code.
+            Technically, I specialize in DRF, React.js, and Node.js, with a growing expertise in TypeScript, React Native, and Tailwind CSS. I hold a Full Stack Development diploma from Code Institute, and I&apos;m adept at leveraging cutting-edge AI tools to enhance productivity and innovation.
+            My leadership skills, cultivated through sports and my self-driven acting career in Los Angeles, translate seamlessly into the tech world. I&apos;m not afraid to aim high, make mistakes, learn from them and eager to contribute to projects that push the boundaries of what&apos;s possible in software development and my growth.
+            I&apos;m seeking a role that will challenge me to learn and grow as a coder, where I can apply my unique blend of creative problem-solving, technical skills, and relentless drive to create impactful solutions - or simply code.
             </p>
           </section>
 
@@ -83,7 +83,7 @@ export default function Component() {
           <section>
             <h2 className="text-2xl font-semibold mb-4">Future Skills</h2>
             <p className="mt-2 text-gray-300">
-              I'm actively working on or/and planning to expand my skill set in these areas to stay at the forefront of technology.
+              I&apos;m actively working on or/and planning to expand my skill set in these areas to stay at the forefront of technology.
             </p>
             <br></br>
             <div className="flex flex-wrap gap-2">
